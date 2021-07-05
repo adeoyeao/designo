@@ -4,7 +4,7 @@ import BasicLayout from "layout/Basic";
 const Home = () => {
   return (
     <BasicLayout>
-      <h1>Coffee Roasters</h1>
+      <h1>Designo</h1>
     </BasicLayout>
   );
 };
